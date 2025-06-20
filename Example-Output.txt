@@ -1,0 +1,84 @@
+
+=== Prompt Variant 1 ===
+You are an expert clinician. Diagnose the patient:
+
+A 58-year-old woman presents with fatigue, pallor, and shortness of breath. 
+Lab results show Hb = 7.8 g/dL, MCV = 70 fL, ferritin = 5 ng/mL.
+What is the likely diagnosis, and what should be the next step in management?
+
+
+--- Model Output ---
+A. Iron deficiency anemia
+B. Chronic obstructive pulmonary disease
+C. Pulmonary embolism
+D. Hemorrhagic diathesis
+A. Iron deficiency anemia
+Iron deficiency anemia is the most common cause of anemia in the United States. The clinical features of iron deficiency anemia include fatigue, shortness of breath, and pallor. Iron deficiency anemia can be diagnosed by measuring serum ferritin and ferritin binding protein.
+Iron deficiency anemia is treated with iron supplements and, in some cases, intravenous iron.
+B. Chronic obstructive pulmonary disease
+Chronic obstructive pulmonary disease (COPD) is a common cause of chronic obstructive pulmonary disease. The most
+
+=== Prompt Variant 2 ===
+Summarize the most likely diagnosis and recommended treatment:
+
+A 58-year-old woman presents with fatigue, pallor, and shortness of breath. 
+Lab results show Hb = 7.8 g/dL, MCV = 70 fL, ferritin = 5 ng/mL.
+What is the likely diagnosis, and what should be the next step in management?
+
+
+--- Model Output ---
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis, and what should be the next step in management?
+What is the most likely diagnosis
+
+=== Prompt Variant 3 ===
+List differential diagnoses with explanations:
+
+A 58-year-old woman presents with fatigue, pallor, and shortness of breath. 
+Lab results show Hb = 7.8 g/dL, MCV = 70 fL, ferritin = 5 ng/mL.
+What is the likely diagnosis, and what should be the next step in management?
+
+
+--- Model Output ---
+The differential diagnosis includes:
+- Viral myocarditis (myocarditis due to influenza A)
+- Myocardial infarction
+- Myocarditis (pericarditis)
+- Myocardial ischemia
+- Cardiomyopathy
+- Pericarditis
+- Pericardial effusion
+- Pericardial tamponade
+- Pericardial cyst
+- Pericardial tumor
+- Pericardial fibrosis
+- Pericardial effusion
+- Pericardial disease
+- Pericardial abscess
+- Pericardial effusion
+- Pericardial disease
+- Pericardial disease
+- Pericard
+
+=== Prompt Variant 4 ===
+Generate a concise clinical note for this case:
+
+A 58-year-old woman presents with fatigue, pallor, and shortness of breath. 
+Lab results show Hb = 7.8 g/dL, MCV = 70 fL, ferritin = 5 ng/mL.
+What is the likely diagnosis, and what should be the next step in management?
+
+
+--- Model Output ---
+A. Iron deficiency
+B. Iron overload
+C. Hepatic steatosis
+D. Hypertriglyceridemia
+Answer: A
+The correct answer is A. Iron deficiency is the most common cause of fatigue and pallor in the elderly.1 Iron deficiency is also a common cause of fatigue in patients with chronic liver disease.2 In addition, iron deficiency is the most common cause of fatigue in patients with chronic heart failure.3 Iron deficiency is also common in patients with chronic kidney disease.4 Iron deficiency is also common in patients with cirrhosis, as is iron overload.5
+Iron overload is most often associated with hepatic steatosis.6 Iron overload is also common in patients with chronic kidney disease.7
